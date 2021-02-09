@@ -1,2 +1,2 @@
 # Hello_World
-sample repository
+Practice Repository
